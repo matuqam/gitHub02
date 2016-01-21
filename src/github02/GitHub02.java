@@ -15,7 +15,7 @@ public class GitHub02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String s = "Hello world";
+        String s = "Hello world test1";
         System.out.printf("The phrase of the day is:%s%n", s);
         System.out.printf("Repete of privious: %s%n", s);
     }
