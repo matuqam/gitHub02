@@ -15,7 +15,7 @@ public class GitHub02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String s = "Hello Peoples you sucks.";
+        String s = "Hello Peoples you sucks balls.";
         System.out.printf("The phrase of the day is:%s%n", s);
     }
     
